@@ -38,7 +38,7 @@ const Navbar = () => {
     <>
       <nav className="navbar">
         <Link to="/" className="navbar-logo">
-          HEALTHIFY <i className="fa-solid fa-book-medical" />
+          HEALTHIFY <i className="fa-solid fa-briefcase-medical" />
           {/* <FontAwesomeIcon icon={faBandage} color="#1888ff" beat /> */}
         </Link>
         <div className="menu-icon" onClick={clickHandler}>
